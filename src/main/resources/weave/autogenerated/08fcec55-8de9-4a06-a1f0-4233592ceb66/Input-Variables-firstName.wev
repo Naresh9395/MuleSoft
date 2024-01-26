@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_08fcec55_8de9_4a06_a1f0_4233592ceb66_Input_Variables_firstName = Null
+
